@@ -1,6 +1,6 @@
 # RR-STARQ platform modifications and Sagittal Plane Fluid Field SLIP Simulation
 
-This repository gives a brief overview of the final portion of my dissertation. I expand upon the Fluid Field SLIP model (<a href="https://ieeexplore.ieee.org/document/9561102">**by Max Austin** </a>, by simulating two revolute-revolute legs connected by a body and evaluating the fluid dynamics over each individual linkage. The STARQ platform was modified with RR legs to experimentally validate and characterize the platform and reduced order dynamic model. The RR design is inspired by dog swimming gaits. 
+This repository gives a brief overview of the final portion of my dissertation. I expand upon the Fluid Field SLIP model (<a href="https://ieeexplore.ieee.org/document/9561102">**by Max Austin** </a>, by simulating two revolute-revolute legs connected by a body and evaluating the fluid dynamics over each individual linkage. The STARQ platform was modified with RR legs to experimentally validate and characterize the platform and reduced order dynamic model. The RR design is inspired by dog swimming gaits. This work was done in collaboration with the Army Research Laboratory. 
 
 ## 📄 Quick Links! - Waiting For Publication 
 
