@@ -19,9 +19,13 @@ RR-STARQ was modified with two belt driven revolute-revolute legs which were des
 
 See how RR-STARQ swims <a href="https://iopscience.iop.org/article/10.1088/1748-3190/aca05c" target="_blank">**HERE** </a>.
 
-View the simulation animation results <a href="https://iopscience.iop.org/article/10.1088/1748-3190/aca05c" target="_blank">**HERE** </a>.
+View an example of the simulation animation results <a href="https://github.com/AshETQ/Sagittal-Plane-RR-STARQ/blob/1ade6aaef758a3918d67d7aeff60018b68596af8/Swimming_FH_BN40_.avi" target="_blank">**HERE** </a>. 
 
-View the comparison to simulation results <a href="https://iopscience.iop.org/article/10.1088/1748-3190/aca05c" target="_blank">**HERE** </a>.
+Or see an example of a simulated gait cycle: 
+![gif2](https://github.com/AshETQ/Sagittal-Plane-RR-STARQ/blob/1ade6aaef758a3918d67d7aeff60018b68596af8/Images/Gif%20SPFFS.gif)
+
+View the comparison of experimental to simulation!
+![gif1](https://github.com/AshETQ/Sagittal-Plane-RR-STARQ/blob/1ade6aaef758a3918d67d7aeff60018b68596af8/Images/RRSPFFS%20Sim%20to%20Real.gif)
 
 ## 💬 Presentation Mode
 
